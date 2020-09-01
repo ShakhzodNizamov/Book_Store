@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         replaceFragment(IntroFragment(), false)
     }
 
+    //Test
     private fun initFields(){
         mToolbar = mBinding.mainToolbar
         mToolbar.setNavigationIcon(R.drawable.ic_baseline_chevron_left_24)
