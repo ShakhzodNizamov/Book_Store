@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgotten_password">Forgotten Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="books_for">Books For</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number">Phone number</string>
+    <string name="name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>

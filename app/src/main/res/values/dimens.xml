@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_size">20sp</dimen>
+    <dimen name="normal_size">16sp</dimen>
+    <dimen name="small_size">12sp</dimen>
+    <dimen name="button_ripple_effect_radius">30dp</dimen>
+</resources>
